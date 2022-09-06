@@ -3,6 +3,9 @@ use SFCIB
 -- Procedimiento Almacenado
 -- CRUD: Ingresar, Dar baja, modificar,
 -- buscar y listar
+
+-- TRABAJAR CON MUNICIPIOS
+
 select * from Deptos
 
 alter table Deptos add EstadoD bit default 1
