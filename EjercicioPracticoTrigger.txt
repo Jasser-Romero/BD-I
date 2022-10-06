@@ -1,0 +1,11 @@
+1.- Crear las tablas dev CE con su correspondiente detalle y la tabla dev EP con su correspondiente detalle
+2.- Actualizar inventarios por devoluciones
+3.- Actualizar los subtotales y los totales de las devoluciones verificando la aplicacion de IVA
+
+Nota: Recuerde que ninguna empresa le devolvera dinero solo hara el cambio del producto o le entregara un producto similar con el mismo 
+precio, si el producto esta descontinuado
+
+Transacciones: Implicitas y explicitas
+
+DBTransaction
+
